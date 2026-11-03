@@ -17,6 +17,7 @@
 | # | Уровень | Тема | Материалы | Пост в канале |
 |---|---|---|---|---|
 | 01 | 🟢 1 → 🔴 3 | Пост пришёл с тегами вместо жирного шрифта | [posts/01-parse-mode](posts/01-parse-mode/) | https://t.me/vibeSteppingToCode/7 |
+| 02 | 🟡 2 → 🔴 3 | Фрагментация резала не то поле | [posts/02-tls-fragmentation](posts/02-tls-fragmentation/) | <!-- channel-link --> |
 
 ## Уровни
 
