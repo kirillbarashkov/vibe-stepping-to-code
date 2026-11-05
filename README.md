@@ -18,6 +18,7 @@
 |---|---|---|---|---|
 | 01 | 🟢 1 → 🔴 3 | Пост пришёл с тегами вместо жирного шрифта | [posts/01-parse-mode](posts/01-parse-mode/) | https://t.me/vibeSteppingToCode/7 |
 | 02 | 🟡 2 → 🔴 3 | Фрагментация резала не то поле | [posts/02-tls-fragmentation](posts/02-tls-fragmentation/) | https://t.me/vibeSteppingToCode/8 |
+| 03 | 🟡 2 | В Telegram появились настоящие заголовки и таблицы | [posts/03-rich-messages](posts/03-rich-messages/) | <!-- channel-link --> |
 
 ## Уровни
 
